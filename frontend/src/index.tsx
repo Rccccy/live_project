@@ -4,7 +4,7 @@ import './index.css';
 import { RouterProvider } from "react-router-dom"
 import routes from './router.config';
 
-// 单独点名要听着 路由权限
+// 单独点名要听着 路由权限11
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
